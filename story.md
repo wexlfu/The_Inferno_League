@@ -7,6 +7,7 @@
 * Northernmost Emirate, guardians against the bitter swamp, elves, and drakes.
 
 ## Razhaikib Emirate
+* Known in Abhailah as the "Cleanfeet", as they avoid conflict and do not often ally with others and thus do not march in the dust to war.
 
 ## The Inferno League
 * The Bitter Alliance (Saurians + Trolls)
@@ -21,5 +22,6 @@
   * Noting that drakefire can warm him ever so slightly, he seeks a true dragon to grant him real warmth against his eternal chill.
 
 # Summary
+The Abhailah Guardians move to crush an outbreak in drake and saurian raids, but soon discover a much bigger threat in the Inferno League. They must move to stop these worshippers of elemental fire before the ultimate flame descends upon the lands of the dunefolk.
 
 # Storyline
