@@ -2,6 +2,12 @@
 * 626 YW
 
 # Factions
+## Abhailah Emirate
+* "Guardians of the North"
+* Northernmost Emirate, guardians against the bitter swamp, elves, and drakes.
+
+## Razhaikib Emirate
+
 ## The Inferno League
 * The Bitter Alliance (Saurians + Trolls)
   * They steal magic items, raid coffers, ambush caravans, and perform general mercenary work.

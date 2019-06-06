@@ -1,0 +1,8 @@
+title="The Inferno League"
+version="@VERSION@"
+icon="@ICON@"
+author=shacknetisp
+type=campaign
+passphrase="@PASSPHRASE@"
+email="@EMAIL@"
+description="@DESCRIPTION@"
