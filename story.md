@@ -22,3 +22,4 @@
   * Noting that drakefire can warm him ever so slightly, he seeks a true dragon to grant him real warmth against his eternal chill.
 
 # Storyline
+Saurian mercenaries begin raiding dunefolk lands. Mal-Ravanal has made Wesnoth poorer pickings. Due to this, the Abhailah Emirate sends a division of its military to the northern front (Abhailah faces enemy Emirates to the south, so cannot send more divisions).
