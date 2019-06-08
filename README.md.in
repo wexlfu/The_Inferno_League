@@ -1,2 +1,8 @@
-# The Inferno League - @VERSION@
+# The Inferno League
+Version @VERSION@
+
 @DESCRIPTION@
+
+## Wexlfu
+Requires major version @WEXLFU@.
+Minimum version: @WEXLFU@.@WEXLFU_SUB@
