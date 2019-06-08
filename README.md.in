@@ -4,5 +4,5 @@ Version @VERSION@
 @DESCRIPTION@
 
 ## Wexlfu
-Requires major version @WEXLFU@.
-Minimum version: @WEXLFU@.@WEXLFU_SUB@
+* Requires major version @WEXLFU@.
+* Minimum version: @WEXLFU@.@WEXLFU_SUB@
