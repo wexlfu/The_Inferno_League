@@ -5,4 +5,6 @@ author=shacknetisp
 type=campaign
 passphrase="@PASSPHRASE@"
 email="@EMAIL@"
-description="@DESCRIPTION@"
+description="@DESCRIPTION@
+
+@CAMPAIGN_STATS_PLAIN@"
