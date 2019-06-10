@@ -57,6 +57,7 @@ Cutscenes may be merged into story or dialogue in surrounding scenarios.
 * 07 - Cold and Bloodless: Fight past saurians and undead.
 * 07c - Learn about Razhaikib betrayal.
 * 08 - Hand of Justice: Defeat the invading Razhaikib.
+  * The first dragon shows up.
 * 09 - Barren Plains: Travel north through orc territory.
 * 10 - Infernal Borders: Defeat Inferno outposts, send a falcon westward.
   * Earlier falcon escape means more help from Empathists later.
