@@ -49,13 +49,13 @@ Cutscenes may be merged into story or dialogue in surrounding scenarios.
 * 03 - Fire from the North - Hold border against drake attack.
 * 04 - Shadowed Sands - Endurance against undead appearing from villages, must clean all villages of undead.
   * Razhaikib have not helped here since it is "outside their territory".
-* 04c - Meet with Razhaikib.
+* 04t - Meet with Razhaikib.
 * 05 - Mercenary Work - Slaughter orcs on the plains (unfavorable terrain).
-* 05c - Work out details with Razhaikib.
+* 05t - Work out details with Razhaikib.
 * 06 - Snowy Peaks - Travel through a mountain pass.
-* 06c - Meet with elves.
+* 06t - Meet with elves.
 * 07 - Cold and Bloodless: Fight past saurians and undead.
-* 07c - Learn about Razhaikib betrayal.
+* 07t - Learn about Razhaikib betrayal.
 * 08 - Hand of Justice: Defeat the invading Razhaikib.
   * The first dragon shows up.
 * 09 - Barren Plains: Travel north through orc territory.
