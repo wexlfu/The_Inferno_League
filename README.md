@@ -1,6 +1,6 @@
 # The Inferno League
-* Version: 0.3.1
-* Scenarios: 3 playable out of 12 planned.
+* Version: 0.4.0
+* Scenarios: 4 playable out of 12 planned.
 * Medals earnable: 1
 
 The Abhailah Guardians move to crush an outbreak of drake and saurian raids, but soon discover a much bigger threat in the Inferno League. They must attempt to stop this fiery menace before the ultimate flame descends upon the lands of the dunefolk.
