@@ -1,5 +1,5 @@
 # The Inferno League
-* Version: 0.5.3
+* Version: 0.5.4
 * Scenarios: 5 playable out of 12 planned.
 * Medals earnable: 2
 
