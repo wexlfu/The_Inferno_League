@@ -57,6 +57,8 @@ Cutscenes may be merged into story or dialogue in surrounding scenarios.
 * 07 - Cold and Bloodless: Fight past saurians and undead.
 * 07t - Learn about Razhaikib betrayal.
 * 08 - Hand of Justice: Defeat the invading Razhaikib.
+  * They are besieging a mining town. Allow sneaking through the mines.
+    * This demonstrates why the Inferno League is focusing on Abhaila, due to their resources.
   * The first dragon shows up.
 * 09 - Barren Plains: Travel north through orc territory.
 * 10 - Infernal Borders: Defeat Inferno outposts, send a falcon westward.
