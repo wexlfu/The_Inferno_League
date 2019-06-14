@@ -19,6 +19,7 @@
   * They are keenly interested in their draconic heritage, and see the Inferno League as a way to expand their territory and prestige.
 * Ignicia's Flaming Convent (Magi)
   * Dedicated to the ultimate study of fire, they seek to spread flames across the world.
+  * Ignacia sees herself as the reincarnation of the legendary AQUAGAR.
 * Adebelus 19 (Undead)
   * Noting that drakefire can warm him ever so slightly, he seeks a true dragon to grant him real warmth against his eternal chill.
 
